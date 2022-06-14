@@ -1,0 +1,44 @@
+[
+  {
+    "id": "0",
+    "date": "29/07/2021",
+    "category": "Professional networking",
+    "sentence": "During this brief chat we were able to brainstorm and discuss new projects we were working on, which in turn provided much needed sense-making and problem solving.",
+    "sentence_short": "['brief', 'chat', 'were', 'able', 'to', 'brainstorm', 'discuss', 'new', 'new', 'projects', 'were', 'working', 'turn', 'provided', 'much', 'needed', 'sense', 'making', 'problem', 'solving']",
+    "sentence_keywords": "[['brief chat', ''], ['new projects', ''], ['turn', ''], ['sense', ''], ['making', ''], ['problem', '']]",
+    "sentence_sentiment": "[0.9956484436988831, 0.004351497627794743]",
+    "sentence_sentiment_net": "0.991296946",
+    "sentence_sent_score": "5.432860676",
+    "sentence_sentiment_label": "1",
+    "sentence_entities": "[]",
+    "sentence_non_entities": "['brief chat', 'new projects', 'turn', 'sense', 'making', 'problem']"
+  },
+  {
+    "id": "1",
+    "date": "29/07/2021",
+    "category": "Professional networking",
+    "sentence": "These low-stakes conversations with people you see ...rkets react to certain themes that sometimes seem related and sometimes dont, George, the Yale fund president, said.",
+    "sentence_short": "['ve', 'gotten', 'exposure', 'markets', 'react', 'certain', 'themes', 'seem', 'related', 'do', 'nt', 'George', 'Yale', 'fund', 'president', 'said']",
+    "sentence_keywords": "[['exposure', 'PER'], ['markets', ''], ['certain themes', ''], ['George', 'PER'], ['Yale fund president', 'ORG']]",
+    "sentence_sentiment": "[0.9375954270362854, 0.06240462511777878]",
+    "sentence_sentiment_net": "0.875190802",
+    "sentence_sent_score": "2.709679984",
+    "sentence_sentiment_label": "1",
+    "sentence_entities": "[['George', 'PERSON'], ['Yale', 'ORG'], ['George', 'PER']]",
+    "sentence_non_entities": "['markets', 'certain themes']"
+  },
+  {
+    "id": "",
+    "date": null,
+    "category": null,
+    "sentence": null,
+    "sentence_short": null,
+    "sentence_keywords": null,
+    "sentence_sentiment": null,
+    "sentence_sentiment_net": null,
+    "sentence_sent_score": null,
+    "sentence_sentiment_label": null,
+    "sentence_entities": null,
+    "sentence_non_entities": null
+  }
+]
